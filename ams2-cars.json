@@ -1,0 +1,1158 @@
+{
+  "GeneratedAt": "2026-03-02T07:59:29Z",
+  "TotalCount": 192,
+  "Cars": [
+    {
+      "Name": "125cc Kart",
+      "ShifterType": "-",
+      "Path": "/karting/kart-125/",
+      "Url": "https://ams2cars.info/karting/kart-125/"
+    },
+    {
+      "Name": "125cc Shifter Kart",
+      "ShifterType": "Seq",
+      "Path": "/karting/kart-shifter/",
+      "Url": "https://ams2cars.info/karting/kart-shifter/"
+    },
+    {
+      "Name": "250cc Super Kart",
+      "ShifterType": "Sequential stick",
+      "Path": "/karting/super-kart-250/",
+      "Url": "https://ams2cars.info/karting/super-kart-250/"
+    },
+    {
+      "Name": "Alpine A242",
+      "ShifterType": "Sequential paddles",
+      "Path": "/prototypes/lmdh/lmdh-alpine/",
+      "Url": "https://ams2cars.info/prototypes/lmdh/lmdh-alpine/"
+    },
+    {
+      "Name": "Aussie Racing Camaro",
+      "ShifterType": "Sequential stick",
+      "Path": "/club-racing/arc-camaro/",
+      "Url": "https://ams2cars.info/club-racing/arc-camaro/"
+    },
+    {
+      "Name": "BMW 2002 Turbo",
+      "ShifterType": "H-shifter",
+      "Path": "/touring/vintage-tc/bmw-2002t/",
+      "Url": "https://ams2cars.info/touring/vintage-tc/bmw-2002t/"
+    },
+    {
+      "Name": "BMW M Hybrid V8",
+      "ShifterType": "Sequential paddles",
+      "Path": "/prototypes/lmdh/lmdh-bmw/",
+      "Url": "https://ams2cars.info/prototypes/lmdh/lmdh-bmw/"
+    },
+    {
+      "Name": "BMW M1 Procar",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/spec-racing/m1-procar/",
+      "Url": "https://ams2cars.info/spec-racing/m1-procar/"
+    },
+    {
+      "Name": "BMW M3 Sport Evo GrA",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/touring/gr-a-de/m3-gra/",
+      "Url": "https://ams2cars.info/touring/gr-a-de/m3-gra/"
+    },
+    {
+      "Name": "BMW M4 GT3",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/m4-gt3g2/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/m4-gt3g2/"
+    },
+    {
+      "Name": "BMW M4 GT4",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt4/m4-gt4/",
+      "Url": "https://ams2cars.info/gt-sports/gt4/m4-gt4/"
+    },
+    {
+      "Name": "BMW M6 GT3",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/m6-gt3/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/m6-gt3/"
+    },
+    {
+      "Name": "BMW M8 GTE",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gte/m8-gte/",
+      "Url": "https://ams2cars.info/gt-sports/gte/m8-gte/"
+    },
+    {
+      "Name": "Brabham BT26A",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-60s/f-vintage-g2/bt26a/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-60s/f-vintage-g2/bt26a/"
+    },
+    {
+      "Name": "Brabham BT44",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-70s/bt44/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/bt44/"
+    },
+    {
+      "Name": "Brabham BT46B",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-70s/bt46b/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/bt46b/"
+    },
+    {
+      "Name": "Brabham BT49",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-70s/bt49/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/bt49/"
+    },
+    {
+      "Name": "Brabham BT52",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-80s/f-retro-g3/bt52/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/f-retro-g3/bt52/"
+    },
+    {
+      "Name": "Brabham BT62",
+      "ShifterType": "Sequential paddles",
+      "Path": "/road-cars/hypercars/brabham-bt62/",
+      "Url": "https://ams2cars.info/road-cars/hypercars/brabham-bt62/"
+    },
+    {
+      "Name": "Cadillac DPi",
+      "ShifterType": "Sequential paddles",
+      "Path": "/prototypes/cadillac-dpi/",
+      "Url": "https://ams2cars.info/prototypes/cadillac-dpi/"
+    },
+    {
+      "Name": "Cadillac V-Series.R",
+      "ShifterType": "Sequential paddles",
+      "Path": "/prototypes/lmdh/lmdh-cadillac/",
+      "Url": "https://ams2cars.info/prototypes/lmdh/lmdh-cadillac/"
+    },
+    {
+      "Name": "Camaro GT4.R",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt4/camaro-gt4/",
+      "Url": "https://ams2cars.info/gt-sports/gt4/camaro-gt4/"
+    },
+    {
+      "Name": "Camaro SS",
+      "ShifterType": "H-shifter",
+      "Path": "/road-cars/camaro-ss/",
+      "Url": "https://ams2cars.info/road-cars/camaro-ss/"
+    },
+    {
+      "Name": "Caterham 620R",
+      "ShifterType": "Sequential stick",
+      "Path": "/club-racing/caterhams/cat-620/",
+      "Url": "https://ams2cars.info/club-racing/caterhams/cat-620/"
+    },
+    {
+      "Name": "Caterham Academy (270R)",
+      "ShifterType": "H-shifter",
+      "Path": "/club-racing/caterhams/cat-270/",
+      "Url": "https://ams2cars.info/club-racing/caterhams/cat-270/"
+    },
+    {
+      "Name": "Caterham Superlight (360R)",
+      "ShifterType": "Sequential stick",
+      "Path": "/club-racing/caterhams/cat-360-sl/",
+      "Url": "https://ams2cars.info/club-racing/caterhams/cat-360-sl/"
+    },
+    {
+      "Name": "Caterham Supersport (360R)",
+      "ShifterType": "H-shifter",
+      "Path": "/club-racing/caterhams/cat-360-ss/",
+      "Url": "https://ams2cars.info/club-racing/caterhams/cat-360-ss/"
+    },
+    {
+      "Name": "Chevrolet Chevette CCB",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/chevette-ccb/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/chevette-ccb/"
+    },
+    {
+      "Name": "Chevrolet Corvette C3",
+      "ShifterType": "H-shifter",
+      "Path": "/touring/vintage-tc/corvette-c3/",
+      "Url": "https://ams2cars.info/touring/vintage-tc/corvette-c3/"
+    },
+    {
+      "Name": "Chevrolet Corvette C3 R",
+      "ShifterType": "H-shifter",
+      "Path": "/gt-sports/gt-classics/corvette-c3r/",
+      "Url": "https://ams2cars.info/gt-sports/gt-classics/corvette-c3r/"
+    },
+    {
+      "Name": "Chevrolet Corvette C8.R",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gte/c8r-gte/",
+      "Url": "https://ams2cars.info/gt-sports/gte/c8r-gte/"
+    },
+    {
+      "Name": "Chevrolet Cruz Stock Car '19",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-chevy-19/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-chevy-19/"
+    },
+    {
+      "Name": "Chevrolet Cruz Stock Car '20",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-chevy-20/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-chevy-20/"
+    },
+    {
+      "Name": "Chevrolet Cruz Stock Car '24",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-chevy-24/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-chevy-24/"
+    },
+    {
+      "Name": "Chevrolet Cruz Stock Car '23",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-chevy-23/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-chevy-23/"
+    },
+    {
+      "Name": "Chevrolet Cruz Stock Car '22",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-chevy-22/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-chevy-22/"
+    },
+    {
+      "Name": "Chevrolet Cruz Stock Car '21",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-chevy-21/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-chevy-21/"
+    },
+    {
+      "Name": "Chevrolet Montana",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/copa-montana/",
+      "Url": "https://ams2cars.info/brazilian-series/copa-montana/"
+    },
+    {
+      "Name": "Chevrolet Omega Stock Car '99",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-stock-99/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-stock-99/"
+    },
+    {
+      "Name": "Chevrolet Opala '79",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/stock-car-brasil/opala-79/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/opala-79/"
+    },
+    {
+      "Name": "Chevrolet Opala '86",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/stock-car-brasil/opala-86/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/opala-86/"
+    },
+    {
+      "Name": "Corvette C8 Z06",
+      "ShifterType": "Sequential paddles",
+      "Path": "/road-cars/supercars/corvette-c8-z06/",
+      "Url": "https://ams2cars.info/road-cars/supercars/corvette-c8-z06/"
+    },
+    {
+      "Name": "Corvette GTP",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/prototypes/gr-c/corvette-gtpc/",
+      "Url": "https://ams2cars.info/prototypes/gr-c/corvette-gtpc/"
+    },
+    {
+      "Name": "Dallara F301",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/f3-brasil/f301/",
+      "Url": "https://ams2cars.info/brazilian-series/f3-brasil/f301/"
+    },
+    {
+      "Name": "Dallara F309",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/f3-brasil/f309/",
+      "Url": "https://ams2cars.info/brazilian-series/f3-brasil/f309/"
+    },
+    {
+      "Name": "F-Classic G1 M1",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-80s/fclassic-g1m1/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/fclassic-g1m1/"
+    },
+    {
+      "Name": "F-Classic G1 M2",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-80s/fclassic-g1m2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/fclassic-g1m2/"
+    },
+    {
+      "Name": "F-Classic G2 M1",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-80s/fclassic-g2m1/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/fclassic-g2m1/"
+    },
+    {
+      "Name": "F-Classic G2 M2",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-80s/fclassic-g2m2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/fclassic-g2m2/"
+    },
+    {
+      "Name": "F-Classic G2 M3",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-80s/fclassic-g2m3/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/fclassic-g2m3/"
+    },
+    {
+      "Name": "F-Classic G3 M1",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-90s/fclassic-g3m1/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/fclassic-g3m1/"
+    },
+    {
+      "Name": "F-Classic G3 M2",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-90s/fclassic-g3m2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/fclassic-g3m2/"
+    },
+    {
+      "Name": "F-Classic G3 M3",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-90s/fclassic-g3m3/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/fclassic-g3m3/"
+    },
+    {
+      "Name": "F-Classic G3 M4",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-90s/fclassic-g3m4/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/fclassic-g3m4/"
+    },
+    {
+      "Name": "F-Classic G4 M1",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-90s/fclassic-g4m1/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/fclassic-g4m1/"
+    },
+    {
+      "Name": "F-Classic G4 M2",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-90s/fclassic-g4m2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/fclassic-g4m2/"
+    },
+    {
+      "Name": "F-Classic G4 M3",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-90s/fclassic-g4m3/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/fclassic-g4m3/"
+    },
+    {
+      "Name": "F-Reiza",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-modern/f-reiza/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-modern/f-reiza/"
+    },
+    {
+      "Name": "F-Retro G1 V12",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-70s/f-retro-g1-v12/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/f-retro-g1-v12/"
+    },
+    {
+      "Name": "F-Retro G1 V8",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-70s/f-retro-g1-v8/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/f-retro-g1-v8/"
+    },
+    {
+      "Name": "F-Retro G2",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-70s/f-retro-g2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/f-retro-g2/"
+    },
+    {
+      "Name": "F-Retro G3 DFY",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-80s/f-retro-g3/f-retro-g3-dfy/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/f-retro-g3/f-retro-g3-dfy/"
+    },
+    {
+      "Name": "F-Retro G3 Turbo",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-80s/f-retro-g3/f-retro-g3-te/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/f-retro-g3/f-retro-g3-te/"
+    },
+    {
+      "Name": "F-Ultimate G1",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-modern/f-ultimate-g1/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-modern/f-ultimate-g1/"
+    },
+    {
+      "Name": "F-Ultimate G2",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-modern/f-ultimate-g2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-modern/f-ultimate-g2/"
+    },
+    {
+      "Name": "F-V10 G1",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-90s/f-v10-g1/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/f-v10-g1/"
+    },
+    {
+      "Name": "F-V10 G2",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-modern/f-v10-g2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-modern/f-v10-g2/"
+    },
+    {
+      "Name": "F-V12",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-90s/f-v12/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/f-v12/"
+    },
+    {
+      "Name": "F-Vintage G1M1",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-60s/f-vintage-g1m1/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-60s/f-vintage-g1m1/"
+    },
+    {
+      "Name": "F-Vintage G1M2",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-60s/f-vintage-g1m2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-60s/f-vintage-g1m2/"
+    },
+    {
+      "Name": "F-Vintage G2M1",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-60s/f-vintage-g2/f-vintage-g2m1/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-60s/f-vintage-g2/f-vintage-g2m1/"
+    },
+    {
+      "Name": "F-Vintage G2M2",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-60s/f-vintage-g2/f-vintage-g2m2/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-60s/f-vintage-g2/f-vintage-g2m2/"
+    },
+    {
+      "Name": "Fiat Uno (Copa Uno)",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/brazilian-historics/copa-uno/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-historics/copa-uno/"
+    },
+    {
+      "Name": "Fiat Uno CCB",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/uno-ccb/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/uno-ccb/"
+    },
+    {
+      "Name": "Formula Inter MG-15",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/brazilian-series/f-inter/",
+      "Url": "https://ams2cars.info/brazilian-series/f-inter/"
+    },
+    {
+      "Name": "Formula Junior",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/f-junior/",
+      "Url": "https://ams2cars.info/open-wheelers/f-junior/"
+    },
+    {
+      "Name": "Formula Trainer Advanced",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-trainers/f-trainer-adv/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-trainers/f-trainer-adv/"
+    },
+    {
+      "Name": "Formula Trainer Simple",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-trainers/f-trainer/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-trainers/f-trainer/"
+    },
+    {
+      "Name": "Formula USA 2023",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-usa/f-usa-23/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/f-usa-23/"
+    },
+    {
+      "Name": "Formula Vee '11",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/f-vee-brasil/f-vee/",
+      "Url": "https://ams2cars.info/brazilian-series/f-vee-brasil/f-vee/"
+    },
+    {
+      "Name": "Formula Vee Fin",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/f-vee-brasil/f-vee-fin/",
+      "Url": "https://ams2cars.info/brazilian-series/f-vee-brasil/f-vee-fin/"
+    },
+    {
+      "Name": "Ginetta G40",
+      "ShifterType": "Sequential stick",
+      "Path": "/club-racing/gt5/g40-gt5/",
+      "Url": "https://ams2cars.info/club-racing/gt5/g40-gt5/"
+    },
+    {
+      "Name": "Ginetta G40 Cup",
+      "ShifterType": "H-shifter",
+      "Path": "/spec-racing/ginetta-cups/g40-cup/",
+      "Url": "https://ams2cars.info/spec-racing/ginetta-cups/g40-cup/"
+    },
+    {
+      "Name": "Ginetta G55 GT3",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt-open/ginetta-g55-gt3/",
+      "Url": "https://ams2cars.info/gt-sports/gt-open/ginetta-g55-gt3/"
+    },
+    {
+      "Name": "Ginetta G55 GT4",
+      "ShifterType": "Sequential stick",
+      "Path": "/gt-sports/gt4/g55-gt4/",
+      "Url": "https://ams2cars.info/gt-sports/gt4/g55-gt4/"
+    },
+    {
+      "Name": "Ginetta G55 Supercup",
+      "ShifterType": "Sequential paddles",
+      "Path": "/spec-racing/ginetta-cups/g55-supercup/",
+      "Url": "https://ams2cars.info/spec-racing/ginetta-cups/g55-supercup/"
+    },
+    {
+      "Name": "Ginetta G58",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/imperio-endurance/g58-p1/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/g58-p1/"
+    },
+    {
+      "Name": "GX390 Race Kart",
+      "ShifterType": "-",
+      "Path": "/karting/kart-race/",
+      "Url": "https://ams2cars.info/karting/kart-race/"
+    },
+    {
+      "Name": "GX390 Rental Kart",
+      "ShifterType": "-",
+      "Path": "/karting/kart-rental/",
+      "Url": "https://ams2cars.info/karting/kart-rental/"
+    },
+    {
+      "Name": "Iveco Stralis",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/brazilian-series/copa-truck/iveco-ct/",
+      "Url": "https://ams2cars.info/brazilian-series/copa-truck/iveco-ct/"
+    },
+    {
+      "Name": "Lamborghini SC63",
+      "ShifterType": "Sequential paddles",
+      "Path": "/prototypes/lmdh/lmdh-lamborghini/",
+      "Url": "https://ams2cars.info/prototypes/lmdh/lmdh-lamborghini/"
+    },
+    {
+      "Name": "Lola BK200 Ford-Cosworth",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/lola-b2k-ford/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/lola-b2k-ford/"
+    },
+    {
+      "Name": "Lola BK200 Mercedes-Benz",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/lola-b2k-mercedes/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/lola-b2k-mercedes/"
+    },
+    {
+      "Name": "Lola BK200 Toyota",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/lola-b2k-toyota/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/lola-b2k-toyota/"
+    },
+    {
+      "Name": "Lola T95/00 Ford-Cosworth",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/lola-t95-ford/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/lola-t95-ford/"
+    },
+    {
+      "Name": "Lola T95/00 Mercedes",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/lola-t95-mercedes/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/lola-t95-mercedes/"
+    },
+    {
+      "Name": "Lola T98/00 Ford-Cosworth",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/lola-t98-ford/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/lola-t98-ford/"
+    },
+    {
+      "Name": "Lotus 23",
+      "ShifterType": "H-shifter",
+      "Path": "/touring/vintage-tc/lotus-23/",
+      "Url": "https://ams2cars.info/touring/vintage-tc/lotus-23/"
+    },
+    {
+      "Name": "Lotus 49C",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-60s/f-vintage-g2/lotus-49c/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-60s/f-vintage-g2/lotus-49c/"
+    },
+    {
+      "Name": "Lotus 72E",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-70s/lotus-72e/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/lotus-72e/"
+    },
+    {
+      "Name": "Lotus 79",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-70s/lotus-79/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/lotus-79/"
+    },
+    {
+      "Name": "Lotus 98T",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-80s/lotus-98t/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/lotus-98t/"
+    },
+    {
+      "Name": "MAN TGX",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/brazilian-series/copa-truck/man-ct/",
+      "Url": "https://ams2cars.info/brazilian-series/copa-truck/man-ct/"
+    },
+    {
+      "Name": "McLaren 570S",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt4/570s-gt4/",
+      "Url": "https://ams2cars.info/gt-sports/gt4/570s-gt4/"
+    },
+    {
+      "Name": "McLaren 720S",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/720s-gt3/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/720s-gt3/"
+    },
+    {
+      "Name": "McLaren 720S GT3 EVO",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/720s-gt3g2/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/720s-gt3g2/"
+    },
+    {
+      "Name": "McLaren F1 GTR Longtail",
+      "ShifterType": "Sequential stick",
+      "Path": "/gt-sports/gt1/mclaren-f1-gtr/",
+      "Url": "https://ams2cars.info/gt-sports/gt1/mclaren-f1-gtr/"
+    },
+    {
+      "Name": "McLaren F1 LM",
+      "ShifterType": "H-shifter",
+      "Path": "/road-cars/supercars/mclaren-f1-lm/",
+      "Url": "https://ams2cars.info/road-cars/supercars/mclaren-f1-lm/"
+    },
+    {
+      "Name": "McLaren M23",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-70s/mclaren-m23/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-70s/mclaren-m23/"
+    },
+    {
+      "Name": "McLaren MP4/12",
+      "ShifterType": "Sequential paddles",
+      "Path": "/open-wheelers/formula-90s/mclaren-mp412/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/mclaren-mp412/"
+    },
+    {
+      "Name": "McLaren MP4/1C",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/open-wheelers/formula-80s/f-retro-g3/mclaren-mp41c/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/f-retro-g3/mclaren-mp41c/"
+    },
+    {
+      "Name": "McLaren MP4/4",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-80s/mclaren-mp44/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-80s/mclaren-mp44/"
+    },
+    {
+      "Name": "McLaren MP4/5B",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-90s/mclaren-mp45b/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/mclaren-mp45b/"
+    },
+    {
+      "Name": "McLaren MP4/6",
+      "ShifterType": "H-shifter",
+      "Path": "/open-wheelers/formula-90s/mclaren-mp46/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-90s/mclaren-mp46/"
+    },
+    {
+      "Name": "McLaren Senna",
+      "ShifterType": "Sequential paddles",
+      "Path": "/road-cars/hypercars/mclaren-senna/",
+      "Url": "https://ams2cars.info/road-cars/hypercars/mclaren-senna/"
+    },
+    {
+      "Name": "MCR S2000",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/imperio-endurance/mcr-p4/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/mcr-p4/"
+    },
+    {
+      "Name": "Mercedes-AMG GT3",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/amg-gt3/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/amg-gt3/"
+    },
+    {
+      "Name": "Mercedes-AMG GT3 Evo",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/amg-gt3g2/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/amg-gt3g2/"
+    },
+    {
+      "Name": "Mercedes-AMG GT4",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt4/amg-gt4/",
+      "Url": "https://ams2cars.info/gt-sports/gt4/amg-gt4/"
+    },
+    {
+      "Name": "Mercedes-Benz 190E EVO 2 DTM",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/touring/gr-a-de/190e-gra/",
+      "Url": "https://ams2cars.info/touring/gr-a-de/190e-gra/"
+    },
+    {
+      "Name": "Mercedes-Benz Actros-2651",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/brazilian-series/copa-truck/mb-ct/",
+      "Url": "https://ams2cars.info/brazilian-series/copa-truck/mb-ct/"
+    },
+    {
+      "Name": "Mercedes-Benz CLK LM",
+      "ShifterType": "Sequential stick",
+      "Path": "/gt-sports/gt1/mb-clk-lm/",
+      "Url": "https://ams2cars.info/gt-sports/gt1/mb-clk-lm/"
+    },
+    {
+      "Name": "MetalMoro AJR Chevy",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/imperio-endurance/ajr-chevy-p1/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/ajr-chevy-p1/"
+    },
+    {
+      "Name": "MetalMoro AJR Honda",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/imperio-endurance/ajr-honda-p1/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/ajr-honda-p1/"
+    },
+    {
+      "Name": "MetalMoro AJR Judd (Fictional)",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/imperio-endurance/ajr-judd-p1/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/ajr-judd-p1/"
+    },
+    {
+      "Name": "MetalMoro AJR V6",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/imperio-endurance/ajr-v6-p1/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/ajr-v6-p1/"
+    },
+    {
+      "Name": "MetalMoro MRX Duratec P2",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/imperio-endurance/mrx-dura-p2/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/mrx-dura-p2/"
+    },
+    {
+      "Name": "MetalMoro MRX Duratec P3",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/imperio-endurance/mrx-dura-p3/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/mrx-dura-p3/"
+    },
+    {
+      "Name": "MetalMoro MRX Duratec P4",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/imperio-endurance/mrx-dura-p4/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/mrx-dura-p4/"
+    },
+    {
+      "Name": "MetalMoro MRX Honda P3",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/imperio-endurance/mrx-honda-p3/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/mrx-honda-p3/"
+    },
+    {
+      "Name": "Mini Cooper JCW",
+      "ShifterType": "Sequential stick",
+      "Path": "/touring/mini-jcw/",
+      "Url": "https://ams2cars.info/touring/mini-jcw/"
+    },
+    {
+      "Name": "Mini Cooper S",
+      "ShifterType": "H-shifter",
+      "Path": "/touring/vintage-tc/mini-cooper-s/",
+      "Url": "https://ams2cars.info/touring/vintage-tc/mini-cooper-s/"
+    },
+    {
+      "Name": "Mini Cooper S 1965 B",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/mini-ccb/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/mini-ccb/"
+    },
+    {
+      "Name": "Mitsubishi Lancer R",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/lancer-cup/lancer-r/",
+      "Url": "https://ams2cars.info/brazilian-series/lancer-cup/lancer-r/"
+    },
+    {
+      "Name": "Mitsubishi Lancer RS",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/lancer-cup/lancer-rs/",
+      "Url": "https://ams2cars.info/brazilian-series/lancer-cup/lancer-rs/"
+    },
+    {
+      "Name": "Nissan GT-R Nismo GT3",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/nissan-gtr-gt3/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/nissan-gtr-gt3/"
+    },
+    {
+      "Name": "Nissan R390 GT1",
+      "ShifterType": "Sequential stick",
+      "Path": "/gt-sports/gt1/nissan-r390-gt1/",
+      "Url": "https://ams2cars.info/gt-sports/gt1/nissan-r390-gt1/"
+    },
+    {
+      "Name": "Nissan R89C",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/prototypes/gr-c/nissan-r89c/",
+      "Url": "https://ams2cars.info/prototypes/gr-c/nissan-r89c/"
+    },
+    {
+      "Name": "Old Stock Opala",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/opala-oldstock/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/opala-oldstock/"
+    },
+    {
+      "Name": "Porsche 911 GT1",
+      "ShifterType": "Sequential stick",
+      "Path": "/gt-sports/gt1/porsche-911-gt1/",
+      "Url": "https://ams2cars.info/gt-sports/gt1/porsche-911-gt1/"
+    },
+    {
+      "Name": "Porsche 911 GT3 Cup 3.8",
+      "ShifterType": "Sequential paddles",
+      "Path": "/spec-racing/carrera-cup/911-cup-38/",
+      "Url": "https://ams2cars.info/spec-racing/carrera-cup/911-cup-38/"
+    },
+    {
+      "Name": "Porsche 911 GT3 Cup 4.0",
+      "ShifterType": "Sequential paddles",
+      "Path": "/spec-racing/carrera-cup/911-cup-40/",
+      "Url": "https://ams2cars.info/spec-racing/carrera-cup/911-cup-40/"
+    },
+    {
+      "Name": "Porsche 911 GT3 R",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/911-gt3/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/911-gt3/"
+    },
+    {
+      "Name": "Porsche 911 RSR 3.0",
+      "ShifterType": "H-shifter",
+      "Path": "/gt-sports/gt-classics/911-rsr74/",
+      "Url": "https://ams2cars.info/gt-sports/gt-classics/911-rsr74/"
+    },
+    {
+      "Name": "Porsche 911 RSR-19",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gte/911-rsr19-gte/",
+      "Url": "https://ams2cars.info/gt-sports/gte/911-rsr19-gte/"
+    },
+    {
+      "Name": "Porsche 962C",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/prototypes/gr-c/porsche-962c/",
+      "Url": "https://ams2cars.info/prototypes/gr-c/porsche-962c/"
+    },
+    {
+      "Name": "Porsche 963",
+      "ShifterType": "Sequential paddles",
+      "Path": "/prototypes/lmdh/lmdh-porsche/",
+      "Url": "https://ams2cars.info/prototypes/lmdh/lmdh-porsche/"
+    },
+    {
+      "Name": "Porsche 992 GT3 R",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt3/911-gt3g2/",
+      "Url": "https://ams2cars.info/gt-sports/gt3/911-gt3g2/"
+    },
+    {
+      "Name": "Porsche Cayman GT4 CS MR",
+      "ShifterType": "Sequential paddles",
+      "Path": "/gt-sports/gt4/cayman-gt4/",
+      "Url": "https://ams2cars.info/gt-sports/gt4/cayman-gt4/"
+    },
+    {
+      "Name": "Puma GTB CCFL",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/puma-gtb-ccfl/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/puma-gtb-ccfl/"
+    },
+    {
+      "Name": "Puma GTE CCB",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/puma-gte-ccb/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/puma-gte-ccb/"
+    },
+    {
+      "Name": "Puma P052",
+      "ShifterType": "H-shifter",
+      "Path": "/club-racing/gt5/puma-gt5/",
+      "Url": "https://ams2cars.info/club-racing/gt5/puma-gt5/"
+    },
+    {
+      "Name": "Reynard 2Ki Ford-Cosworth",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-2ki-ford/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-2ki-ford/"
+    },
+    {
+      "Name": "Reynard 2Ki Honda",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-2ki-honda/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-2ki-honda/"
+    },
+    {
+      "Name": "Reynard 2Ki Mercedes-Benz",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-2ki-mercedes/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-2ki-mercedes/"
+    },
+    {
+      "Name": "Reynard 2Ki Toyota",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-2ki-toyota/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-2ki-toyota/"
+    },
+    {
+      "Name": "Reynard 95i Ford-Cosworth",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-95i-ford/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-95i-ford/"
+    },
+    {
+      "Name": "Reynard 95i Honda",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-95i-honda/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-95i-honda/"
+    },
+    {
+      "Name": "Reynard 95i Mercedes",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-95i-mercedes/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-95i-mercedes/"
+    },
+    {
+      "Name": "Reynard 98i Ford-Cosworth",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-98i-ford/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-98i-ford/"
+    },
+    {
+      "Name": "Reynard 98i Honda",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-98i-honda/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-98i-honda/"
+    },
+    {
+      "Name": "Reynard 98i Mercedes-Benz",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-98i-mercedes/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-98i-mercedes/"
+    },
+    {
+      "Name": "Reynard 98i Toyota",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/reynard-98i-toyota/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/reynard-98i-toyota/"
+    },
+    {
+      "Name": "Roco 001",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/imperio-endurance/roco-001-p3/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/roco-001-p3/"
+    },
+    {
+      "Name": "Sauber C9",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/prototypes/gr-c/sauber-c9/",
+      "Url": "https://ams2cars.info/prototypes/gr-c/sauber-c9/"
+    },
+    {
+      "Name": "Sigma P1",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/imperio-endurance/sigma-p1-p2/",
+      "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/sigma-p1-p2/"
+    },
+    {
+      "Name": "Sprint Race",
+      "ShifterType": "Sequential stick",
+      "Path": "/brazilian-series/sr-16/",
+      "Url": "https://ams2cars.info/brazilian-series/sr-16/"
+    },
+    {
+      "Name": "Super V8 (Gen2 ZB)",
+      "ShifterType": "Sequential stick",
+      "Path": "/touring/super-v8/",
+      "Url": "https://ams2cars.info/touring/super-v8/"
+    },
+    {
+      "Name": "Swift 009C Ford-Cosworth",
+      "ShifterType": "Sequential stick",
+      "Path": "/open-wheelers/formula-usa/swift-009c-ford/",
+      "Url": "https://ams2cars.info/open-wheelers/formula-usa/swift-009c-ford/"
+    },
+    {
+      "Name": "Toyota Corolla Stock Car '20",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-toyota-20/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-toyota-20/"
+    },
+    {
+      "Name": "Toyota Corolla Stock Car '21",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-toyota-21/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-toyota-21/"
+    },
+    {
+      "Name": "Toyota Corolla Stock Car '23",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-toyota-23/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-toyota-23/"
+    },
+    {
+      "Name": "Toyota Corolla Stock Car '24",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-toyota-24/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-toyota-24/"
+    },
+    {
+      "Name": "Toyota Corolla Stock Car '22",
+      "ShifterType": "Sequential paddles",
+      "Path": "/brazilian-series/stock-car-brasil/brasil-toyota-22/",
+      "Url": "https://ams2cars.info/brazilian-series/stock-car-brasil/brasil-toyota-22/"
+    },
+    {
+      "Name": "Ultima GTR",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/road-cars/supercars/ultima-gtr/",
+      "Url": "https://ams2cars.info/road-cars/supercars/ultima-gtr/"
+    },
+    {
+      "Name": "Ultima GTR Race",
+      "ShifterType": "Sequential stick",
+      "Path": "/gt-sports/gt-open/ultima-gtr-race/",
+      "Url": "https://ams2cars.info/gt-sports/gt-open/ultima-gtr-race/"
+    },
+    {
+      "Name": "Volkswagen Constellation",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/brazilian-series/copa-truck/vw-ct/",
+      "Url": "https://ams2cars.info/brazilian-series/copa-truck/vw-ct/"
+    },
+    {
+      "Name": "Volkswagen Fusca",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/copa-fusca/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/copa-fusca/"
+    },
+    {
+      "Name": "Volkswagen Fusca CCFL",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/fusca-ccfl/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/fusca-ccfl/"
+    },
+    {
+      "Name": "Volkswagen Fusca HC1",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-historics/fusca-hc1/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-historics/fusca-hc1/"
+    },
+    {
+      "Name": "Volkswagen Fusca HC2",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-historics/fusca-hc2/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-historics/fusca-hc2/"
+    },
+    {
+      "Name": "Volkswagen Gol",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-historics/gol-hc/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-historics/gol-hc/"
+    },
+    {
+      "Name": "Volkswagen Gol CCB",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/gol-ccb/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/gol-ccb/"
+    },
+    {
+      "Name": "Volkswagen Gol CCFL",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/gol-ccfl/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/gol-ccfl/"
+    },
+    {
+      "Name": "Volkswagen Passat",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-historics/passat-hc/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-historics/passat-hc/"
+    },
+    {
+      "Name": "Volkswagen Passat CCB",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/passat-ccb/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/passat-ccb/"
+    },
+    {
+      "Name": "Volkswagen Passat CCFL",
+      "ShifterType": "H-shifter",
+      "Path": "/brazilian-series/brazilian-classics/passat-ccfl/",
+      "Url": "https://ams2cars.info/brazilian-series/brazilian-classics/passat-ccfl/"
+    },
+    {
+      "Name": "Vulkan Truck",
+      "ShifterType": "Dogleg H-shifter",
+      "Path": "/brazilian-series/copa-truck/vulkan-ct/",
+      "Url": "https://ams2cars.info/brazilian-series/copa-truck/vulkan-ct/"
+    },
+    {
+      "Name": "VW Polo",
+      "ShifterType": "Automatic",
+      "Path": "/road-cars/tsi-cup/vw-polo/",
+      "Url": "https://ams2cars.info/road-cars/tsi-cup/vw-polo/"
+    },
+    {
+      "Name": "VW Polo GTS",
+      "ShifterType": "Automatic",
+      "Path": "/road-cars/tsi-cup/vw-virtus-gts/",
+      "Url": "https://ams2cars.info/road-cars/tsi-cup/vw-virtus-gts/"
+    },
+    {
+      "Name": "VW Polo GTS",
+      "ShifterType": "Automatic",
+      "Path": "/road-cars/tsi-cup/vw-polo-gts/",
+      "Url": "https://ams2cars.info/road-cars/tsi-cup/vw-polo-gts/"
+    },
+    {
+      "Name": "VW Virtus",
+      "ShifterType": "Automatic",
+      "Path": "/road-cars/tsi-cup/vw-virtus/",
+      "Url": "https://ams2cars.info/road-cars/tsi-cup/vw-virtus/"
+    }
+  ]
+}
