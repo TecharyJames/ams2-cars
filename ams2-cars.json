@@ -3,24 +3,6 @@
   "TotalCount": 192,
   "Cars": [
     {
-      "Name": "125cc Kart",
-      "ShifterType": "-",
-      "Path": "/karting/kart-125/",
-      "Url": "https://ams2cars.info/karting/kart-125/"
-    },
-    {
-      "Name": "125cc Shifter Kart",
-      "ShifterType": "Seq",
-      "Path": "/karting/kart-shifter/",
-      "Url": "https://ams2cars.info/karting/kart-shifter/"
-    },
-    {
-      "Name": "250cc Super Kart",
-      "ShifterType": "Sequential stick",
-      "Path": "/karting/super-kart-250/",
-      "Url": "https://ams2cars.info/karting/super-kart-250/"
-    },
-    {
       "Name": "Alpine A242",
       "ShifterType": "Sequential paddles",
       "Path": "/prototypes/lmdh/lmdh-alpine/",
@@ -523,18 +505,6 @@
       "ShifterType": "Sequential paddles",
       "Path": "/brazilian-series/imperio-endurance/g58-p1/",
       "Url": "https://ams2cars.info/brazilian-series/imperio-endurance/g58-p1/"
-    },
-    {
-      "Name": "GX390 Race Kart",
-      "ShifterType": "-",
-      "Path": "/karting/kart-race/",
-      "Url": "https://ams2cars.info/karting/kart-race/"
-    },
-    {
-      "Name": "GX390 Rental Kart",
-      "ShifterType": "-",
-      "Path": "/karting/kart-rental/",
-      "Url": "https://ams2cars.info/karting/kart-rental/"
     },
     {
       "Name": "Iveco Stralis",
@@ -1156,3 +1126,4 @@
     }
   ]
 }
+
